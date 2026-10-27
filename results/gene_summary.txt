@@ -1,0 +1,4 @@
+Gene symbol: TNNT1
+NCBI Gene ID: 7138
+Official name: troponin T1, slow skeletal type
+Chromosome: 19
